@@ -1,106 +1,106 @@
+<h1 align="center">🌟 Hey there! I'm <span style="color:#00E0FF;">Tanmay Nirgude</span>!</h1>
 
+<h3 align="center">
+💻 Full-Stack Developer • 🧩 Problem Solver • 🔗 Web3 & Blockchain Builder • 🦾 Python AI Developer  
+</h3>
 
- 🌟<h1> Hey there! I'm Tanmay Nirgude!</h1>
-
- 💻 Full-Stack Developer • 🧩 Problem Solver • 🔗 Web3 & Blockchain Builder • 🦾 Python AI Developer 
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=25\&duration=3000\&color=00E0FF\&center=true\&vCenter=true\&width=600\&lines=Full-Stack+Web+Developer;Blockchain+%26+Smart+Contract+Engineer;React+%2B+Vite+%2B+Tailwind+Specialist;Node.js+%7C+MongoDB+%7C+Express;Always+Learning+Something+New!)
-
-</div>
-
-
-
- 🚀 About Me
-
- 🧠 Passionate about building modern, scalable web apps
- 🔗 Developing decentralized applications (Web3 + NFTs + IPFS)
- 🎨 Love crafting clean UI/UX with React + Tailwind
- 🛠 Experience with backend systems, APIs, and DB design
- 🎯 Mission: Build fast, beautiful & secure digital products
-
-
-
- ⚡ Tech Arsenal
-
- Frontend
-
-React • Vite • Tailwind CSS • TypeScript • Zustand • Redux • Framer Motion
-
- Backend
-
-Node.js • Express.js • MongoDB • Firebase • REST APIs • JWT • bcrypt
-
- Blockchain
-
-Solidity • Hardhat • Ethers.js • IPFS (Pinata/Fleek) • MetaMask • Polygon
-
- Tools
-
-Git • GitHub • Postman • VS Code • Figma • Docker
-
-
-
- 🏆 GitHub Overview
+---
 
 <div align="center">
 
-<img height="65" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="65" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4500&pause=1200&color=00E0FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI%2FML+Python+Developer;Blockchain+%26+Smart+Contract+Engineer;React+%2B+Vite+%2B+Tailwind+Specialist;Node.js+%7C+MongoDB+%7C+Express;Always+Learning+Something+New!)
 
 </div>
 
+---
 
+## 🚀 <span style="color:#00E0FF;">About Me</span>
 
- 🚀 Featured Projects
+✨ 🧠 Passionate about building **modern, scalable web apps**  
+✨ 🔗 Developing **decentralized applications (Web3 + NFTs + IPFS)**  
+✨ 🎨 Crafting **clean & beautiful UI/UX** using React + Tailwind  
+✨ 🛠 Strong experience with **backend systems, APIs & database design**  
+✨ 🎯 Dedicated to building **fast, secure & professional-grade products**
 
- 🔥 DigitalVault – Decentralized Patent NFT System
+---
 
- PDF parsing + image hashing
- Block duplicate uploads
- IPFS storage
- NFT minting on Ethereum
- React + Tailwind + Node.js + Solidity
+## ⚡ <span style="color:#00E0FF;">Tech Arsenal</span>
 
- 🌍 TrekVenture – Travel Explorer Platform
+### 🚀 **Frontend**
+React • Vite • Tailwind CSS • TypeScript • Zustand • Redux • Framer Motion  
 
- Upload images/videos
- Store data in MongoDB
- Explore all trips visually
+### 🛠 **Backend**
+Node.js • Express.js • MongoDB • Firebase • REST APIs • JWT • bcrypt  
 
- 🎓 Student Attendance Management
+### 🔗 **Blockchain**
+Solidity • Hardhat • Ethers.js • IPFS (Pinata/Fleek) • MetaMask • Polygon  
 
- Frontend (HTML/CSS/JS)
- Backend (Node.js + Express)
+### 🧰 **Tools**
+Git • GitHub • Postman • VS Code • Figma • Docker  
 
+---
 
-
- 📫 Connect With Me
+## 🏆 <span style="color:#00E0FF;">GitHub Overview</span>
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter)](YOUR_TWITTER_URL)
-[![Email Badge](https://img.shields.io/badge/Email-D44638?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TN9657&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN9657&layout=compact&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TN9657&theme=radical&hide_border=true" />
 
 </div>
 
+---
 
+## 🚀 <span style="color:#00E0FF;">Featured Projects</span>
 
- ❤️ Support My Work
+### 🔥 **DigitalVault – Decentralized Patent NFT System**
+- PDF parsing + image hashing  
+- Duplicate detection & blocking  
+- IPFS storage  
+- Ethereum-based NFT minting  
+- Stack: React • Tailwind • Node.js • Solidity  
 
-If you like my projects, consider giving a ⭐ to the repos — it really motivates me!
+---
 
+### 🌍 **TrekVenture – Travel Explorer Platform**
+- Supports image/video uploads  
+- MongoDB for structured storage  
+- Beautiful visual exploration UI  
 
+---
 
- 🧩 Fun Quote
+### 🎓 **Student Attendance Management**
+- Frontend: HTML / CSS / JavaScript  
+- Backend: Node.js + Express  
+
+---
+
+## 📫 <span style="color:#00E0FF;">Connect With Me</span>
+
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)  
+[![Email Badge](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)  
+
+</div>
+
+---
+
+## ❤️ Support My Work
+
+If you enjoy my projects, please consider giving a ⭐ —  
+your support motivates me to build more amazing things!
+
+---
+
+## 🧩 Fun Quote
 
 > “First, solve the problem. Then, write the code.”
 
-
-
-If you want, I can customize this with your actual username, add your real projects, your logo, GIFs, badges, or dark/light theme.
+---
