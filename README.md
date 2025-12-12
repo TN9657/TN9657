@@ -1,8 +1,8 @@
 
 
- 🌟 Hey there! I'm Tanmay Nirgude!
+ 🌟<h1> Hey there! I'm Tanmay Nirgude!</h1>
 
- 💻 Full-Stack Developer • 🧩 Problem Solver • 🔗 Web3 & Blockchain Builder
+ 💻 Full-Stack Developer • 🧩 Problem Solver • 🔗 Web3 & Blockchain Builder • 🦾 Python AI Developer 
 
 <div align="center">
 
@@ -46,8 +46,8 @@ Git • GitHub • Postman • VS Code • Figma • Docker
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="65" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+<img height="65" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
 
