@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hey there! I'm <span style="color:#00E0FF;">Tanmay Nirgude</span>!</h1>
 
 <h3 align="center">
-💻 Full-Stack Developer • 🧩 Problem Solver • 🔗 Web3 & Blockchain Builder • 🦾 Python AI Developer  
+💻 Full-Stack Developer • 🦾 Python AI Developer • 🧩 Problem Solver • 🔗 Web3 & Blockchain Builder   
 </h3>
 
 ---
