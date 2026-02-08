@@ -27,13 +27,16 @@
 ## ⚡ <span style="color:#00E0FF;">Tech Arsenal</span>
 
 ### 🚀 **Frontend**
-React • Vite • Tailwind CSS • TypeScript • Zustand • Redux • Framer Motion  
+React • Vite • Tailwind CSS • TypeScript • Angular • Api Integration • Framer Motion • JavaScript 
 
 ### 🛠 **Backend**
-Node.js • Express.js • MongoDB • Firebase • REST APIs • JWT • bcrypt  
+Node.js • Express.js • Java  • MongoDB • MySQL • SQL Server • Firebase • REST APIs • JWT 
 
 ### 🔗 **Blockchain**
 Solidity • Hardhat • Ethers.js • IPFS (Pinata/Fleek) • MetaMask • Polygon  
+
+### 🦾 **Python AI Developer**
+Pyhon3 • Tensorflow • Tokenisation • Training and Testing • Digital Dummy • Risk Management  
 
 ### 🧰 **Tools**
 Git • GitHub • Postman • VS Code • Figma • Docker  
