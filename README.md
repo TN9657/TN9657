@@ -83,8 +83,8 @@ Git • GitHub • Postman • VS Code • Figma • Docker
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanmay-nirgude-337929277/))  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]([YOUR_PORTFOLIO_URL](https://portfolio-frontend-six-murex.vercel.app/))  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/tanmay-nirgude-337929277/))  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]((https://portfolio-frontend-six-murex.vercel.app/))  
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)  
 [![Email Badge](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail)](mailto:tanmaynirgude9657@gmail.com)  
 
