@@ -81,11 +81,12 @@ Git • GitHub • Postman • VS Code • Figma • Docker
 
 ## 📫 <span style="color:#00E0FF;">Connect With Me</span>
 
+
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/tanmay-nirgude-337929277/))  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]((https://portfolio-frontend-six-murex.vercel.app/))  
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanmay-nirgude-337929277/)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-frontend-six-murex.vercel.app/)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)  
 [![Email Badge](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail)](mailto:tanmaynirgude9657@gmail.com)  
 
 </div>
